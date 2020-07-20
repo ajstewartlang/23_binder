@@ -1,0 +1,54 @@
+---
+title: "Introduction to Binder"
+author: "Andrew Stewart, Email: drandrewjstewart@gmail.com, Twitter: @ajstewart_lang"
+date: ""
+output: 
+ html_document:
+  theme: flatly
+  toc: true
+  toc_float: true
+---
+
+# Overview
+
+In this workshop we will expore how to set up a [Binder](https://mybinder.readthedocs.io/en/latest/#) for one of our R projects. Binder allows you to capture your data, code, and computational environment in a way that it can be easily shared with others that makes your research fully reproducible. After watching the following video, you will be able to create your own Binder for your R analyses.
+
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
+
+## Slides
+
+If you have a Google account, you can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/23_introduction_to_binder.pdf).
+
+&nbsp;&nbsp;
+
+<center>
+
+[![Link to slides](../images/binder.png){width=75%}](https://docs.google.com/presentation/d/1nRkGg1TRTEp7uG0SRPnHu_5elHzs8LbUIuKmJAFowDM/edit?usp=sharing)
+
+</center>
+
+&nbsp;&nbsp;
+
+If you'd like to launch the Binder I created in the video, you can click on the image below.
+
+https://mybinder.org/v2/gh/ajstewartlang/demo_binder/master?urlpath=rstudio
+
+
+# Your Challenge
+
+Using one of the R scripts you have written previously in this unit, I would like you to Binderise it following the steps in the video. Slide 11 onwards will take you through the stages you need to complete which will result in a weblink for your R analysis that you can then share with others.
+
+
+
+## Improve this Workshop
+
+If you spot any issues/errors in this workshop, you can raise an issue or create a pull request for [this repo](https://github.com/ajstewartlang/23_introduction_to_binder).
+
