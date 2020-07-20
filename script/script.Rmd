@@ -39,8 +39,15 @@ If you have a Google account, you can also view and download the slides in a ran
 
 If you'd like to launch the Binder I created in the video, you can click on the image below.
 
-https://mybinder.org/v2/gh/ajstewartlang/demo_binder/master?urlpath=rstudio
+&nbsp;&nbsp;
 
+<center>
+
+[![Link to my Binder example](../images/my_binder.png)](https://mybinder.org/v2/gh/ajstewartlang/demo_binder/master?urlpath=rstudio)
+
+</center>
+
+&nbsp;&nbsp;
 
 # Your Challenge
 
