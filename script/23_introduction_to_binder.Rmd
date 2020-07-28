@@ -17,7 +17,7 @@ In this workshop we will expore how to set up a [Binder](https://mybinder.readth
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/6mjqOuMTtz4" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -51,7 +51,7 @@ If you'd like to launch the Binder I created in the video, you can click on the 
 
 # Your Challenge
 
-Using one of the R scripts you have written previously in this unit, I would like you to Binderise it following the steps in the video. Slide 11 onwards will take you through the stages you need to complete which will result in a weblink for your R analysis that you can then share with others.
+Using one of the R scripts you have written previously in this unit, I would like you to Binderise it following the steps in the video. Slide 12 onwards will take you through the stages you need to complete which will result in a weblink for your R analysis that you can then share with others.
 
 
 
