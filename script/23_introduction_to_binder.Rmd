@@ -25,13 +25,13 @@ In this workshop we will expore how to set up a [Binder](https://mybinder.readth
 
 ## Slides
 
-If you have a Google account, you can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/23_introduction_to_binder.pdf).
+You can download the slides in .pdf format by clicking on the image below. 
 
 &nbsp;&nbsp;
 
 <center>
 
-[![Link to slides](../images/binder.png){width=75%}](https://docs.google.com/presentation/d/1nRkGg1TRTEp7uG0SRPnHu_5elHzs8LbUIuKmJAFowDM/edit?usp=sharing)
+[![Link to slides](../images/binder.png){width=75%}](../slides/23_introduction_to_binder.pdf)
 
 </center>
 
