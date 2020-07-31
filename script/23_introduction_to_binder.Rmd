@@ -25,7 +25,7 @@ In this workshop we will expore how to set up a [Binder](https://mybinder.readth
 
 ## Slides
 
-You can download the slides in .pdf format by clicking on the image below. 
+You can download the slides in .odp format by clicking [here](../slides/23_introduction_to_binder.odp) and in .pdf format by clicking on the image below. 
 
 &nbsp;&nbsp;
 
