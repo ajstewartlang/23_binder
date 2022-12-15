@@ -43,7 +43,7 @@ If you'd like to launch the Binder I created in the video, you can click on the 
 
 <center>
 
-[![Link to my Binder example](../images/my_binder.png)](https://mybinder.org/v2/gh/ajstewartlang/demo_binder/master?urlpath=rstudio)
+[![Link to my Binder example](../images/my_binder.png)](https://mybinder.org/v2/gh/ajstewartlang/demo_binder/HEAD?urlpath=rstudio)
 
 </center>
 
